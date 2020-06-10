@@ -1,1 +1,1 @@
-# hwid-changer
+# HWID Changer for Windows 10
